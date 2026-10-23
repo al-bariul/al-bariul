@@ -1,3 +1,4 @@
+![Al Bariul Banner](./b.jpg)
 # Hi, I'm Al Bariul 👋
 ### Frontend & Web Developer | CSE Graduate
 
